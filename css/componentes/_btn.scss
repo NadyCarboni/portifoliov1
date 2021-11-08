@@ -1,0 +1,17 @@
+.btn {
+    background-color: $azul-mt-clarinho;
+    border: 4px solid $azul-clarinho;
+    color: $azul2;
+    z-index: 7000;
+    transition: 0.5s;
+    padding: 0.5rem 7rem;
+
+    &:hover {
+        cursor: pointer;
+        color: $rosa-mais-escuro2;
+        border: 4px solid $rosa-mais-escuro1;
+        background-color: $rosa-clarinho;
+    }
+    
+}
+
