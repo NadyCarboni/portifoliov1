@@ -1,0 +1,44 @@
+<svg width="260" height="413" viewBox="0 0 260 413" fill="none" xmlns="http://www.w3.org/2000/svg">
+<mask id="mask0_226:610" style="mask-type:alpha" maskUnits="userSpaceOnUse" x="-324" y="0" width="580" height="405">
+<path fill-rule="evenodd" clip-rule="evenodd" d="M-18.9717 10.4417C36.9719 18.8032 77.3836 44.9856 123.974 66.1087C170.672 87.2809 237.672 99.1736 253.372 133.918C269.036 168.582 209.98 198.409 199.778 233.864C186.923 278.539 232.209 331.245 186.461 366.452C140.471 401.845 52.7567 410.203 -18.9717 402.209C-86.1957 394.716 -128.21 355.583 -177.369 325.902C-218.97 300.783 -258.7 275.947 -282.642 243.007C-309.253 206.396 -331.903 167.484 -321.355 127.804C-309.762 84.1958 -281.872 37.7021 -221.877 14.4165C-162.913 -8.46863 -86.4429 0.357151 -18.9717 10.4417Z" fill="#CFDBE9"/>
+</mask>
+<g mask="url(#mask0_226:610)">
+<g filter="url(#filter0_d_226:610)">
+<rect x="-16.441" y="-110.88" width="352.478" height="813.642" fill="#CFDBE9"/>
+<line x1="-38.8455" y1="36.4139" x2="368" y2="36.4139" stroke="#EEF5FD"/>
+<line x1="-38.8455" y1="65.4726" x2="368" y2="65.4726" stroke="#EEF5FD"/>
+<line x1="-38.8455" y1="96.5352" x2="368" y2="96.5352" stroke="#EEF5FD"/>
+<line x1="-38.8455" y1="125.594" x2="368" y2="125.594" stroke="#EEF5FD"/>
+<line x1="-38.8455" y1="156.657" x2="368" y2="156.657" stroke="#EEF5FD"/>
+<line x1="-38.8455" y1="185.715" x2="368" y2="185.715" stroke="#EEF5FD"/>
+<line x1="-38.8455" y1="216.778" x2="368" y2="216.778" stroke="#EEF5FD"/>
+<line x1="-38.8455" y1="245.836" x2="368" y2="245.836" stroke="#EEF5FD"/>
+<line x1="-38.8455" y1="276.899" x2="368" y2="276.899" stroke="#EEF5FD"/>
+<line x1="-38.8455" y1="305.958" x2="368" y2="305.958" stroke="#EEF5FD"/>
+<line x1="-38.8455" y1="366.079" x2="368" y2="366.079" stroke="#EEF5FD"/>
+<line x1="-38.8455" y1="397.142" x2="368" y2="397.142" stroke="#EEF5FD"/>
+<line x1="-38.8455" y1="337.021" x2="368" y2="337.021" stroke="#EEF5FD"/>
+<line x1="-38.8455" y1="5.35124" x2="368" y2="5.35124" stroke="#EEF5FD"/>
+<line x1="16.3851" y1="789.936" x2="16.3851" y2="-167" stroke="#EEF5FD"/>
+<line x1="44.4746" y1="789.936" x2="44.4746" y2="-167" stroke="#EEF5FD"/>
+<line x1="98.8413" y1="789.936" x2="98.8413" y2="-167" stroke="#EEF5FD"/>
+<line x1="125.119" y1="789.936" x2="125.119" y2="-167" stroke="#EEF5FD"/>
+<line x1="153.208" y1="789.936" x2="153.208" y2="-167" stroke="#EEF5FD"/>
+<line x1="179.485" y1="789.936" x2="179.485" y2="-167" stroke="#EEF5FD"/>
+<line x1="234.758" y1="789.936" x2="234.758" y2="-167" stroke="#EEF5FD"/>
+<line x1="207.575" y1="789.936" x2="207.575" y2="-167" stroke="#EEF5FD"/>
+<line x1="70.7518" y1="789.936" x2="70.7518" y2="-167" stroke="#EEF5FD"/>
+</g>
+</g>
+<defs>
+<filter id="filter0_d_226:610" x="-51" y="-167" width="423" height="964.936" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/>
+<feOffset dy="4"/>
+<feGaussianBlur stdDeviation="2"/>
+<feColorMatrix type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.25 0"/>
+<feBlend mode="normal" in2="BackgroundImageFix" result="effect1_dropShadow_226:610"/>
+<feBlend mode="normal" in="SourceGraphic" in2="effect1_dropShadow_226:610" result="shape"/>
+</filter>
+</defs>
+</svg>
